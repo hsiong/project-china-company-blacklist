@@ -4,7 +4,8 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>公司验证小工具</title></title>
+    <title>公司验证小工具</title>
+    </title>
 </head>
 
 <body>
@@ -12,7 +13,7 @@
         <table>
             <thead>
                 <tr>
-                    <th>序号</th>
+                    <th style="width: 50px;">序号</th>
                     <th align="left">公司名称</th>
                     <th align="left">英文</th>
                     <th>主要分部地</th>
@@ -22,8 +23,10 @@
             <tbody id="companyList">
             </tbody>
         </table>
-        <button style="background-color: green;" onclick="addClick()"></button>
-        <button style="background-color: red;" onclick="removeClick()"></button>
+        <div style="text-align: center;">
+            <button style="background-color: green;" onclick="addClick()">添加一行</button></button>
+            <button style="background-color: red;" onclick="removeClick()">删除末行</button>    
+        </div>
     </div>
 </body>
 
@@ -123,12 +126,16 @@
 
 <style>
     button {
-        width: 50px;
+        width: 80px;
         height: 30px;
     }
 
     button:active {
         background-color: antiquewhite !important
+    }
+
+    td {
+        text-align: center;
     }
 </style>
 
