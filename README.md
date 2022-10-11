@@ -17,4 +17,4 @@
 + 以总公司身份面试，入职时签的是子公司，子公司是外包公司。（这种情况的特别多，很隐蔽，面试时一定要问清楚
 
 # 正文
-https://hsiong.github.io/project-outsourcing-company-china/
+https://hsiong.github.io/project-china-company-blacklist/
