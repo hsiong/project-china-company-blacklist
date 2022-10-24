@@ -87,7 +87,7 @@
         newCompany.push("<td>" + companyTotalCount + "</td>")
         for (let index = 1; index < childNode.length; index++) {
             const td = childNode[index];
-            var text = td.firstChild.value
+            var text = td.firstChild.value.trim()
             // 检查公司是否已存在
             if (index == 1 && companyTotalStr.includes(text)) {
                 alert("公司已存在! ");
