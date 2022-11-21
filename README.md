@@ -26,10 +26,4 @@ https://hsiong.github.io/project-china-company-blacklist/
 
 # In addition
 xxx  怎么样 知乎
-+ 赛意信息 加入黑名单   https://www.zhihu.com/question/422228942
-+ 锐捷网络 加入黑名单   https://www.zhihu.com/question/36739334
-+ 开科唯识 加入黑名单   https://zhuanlan.zhihu.com/p/372444170
-+ 信雅达 加入黑名单
-+ 武汉佰钧成 加入黑名单 https://www.zhihu.com/question/29160885
-+ 文思海辉 加入黑名单   https://www.zhihu.com/topic/19833795/hot
-+ 金赋 加入黑名单      https://www.zhihu.com/question/430636104
++ 
